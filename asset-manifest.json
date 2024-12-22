@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quick-Text-Converter/static/css/main.31d6cfe0.css",
+    "main.js": "/Quick-Text-Converter/static/js/main.2e201943.js",
+    "static/js/453.ed3810f9.chunk.js": "/Quick-Text-Converter/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Quick-Text-Converter/index.html",
+    "main.2e201943.js.map": "/Quick-Text-Converter/static/js/main.2e201943.js.map",
+    "453.ed3810f9.chunk.js.map": "/Quick-Text-Converter/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2e201943.js"
+  ]
+}
